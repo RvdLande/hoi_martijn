@@ -1,4 +1,4 @@
-@SuppressWarnings("unused")
+
 public class test1 {
 
     private final int width;
